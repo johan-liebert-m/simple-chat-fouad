@@ -1,0 +1,8 @@
+{
+  "name": "simple-chat-fouad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1c777453"
+}
